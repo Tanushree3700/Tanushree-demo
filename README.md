@@ -1,3 +1,4 @@
 # Tanushree-demo
-This is my first Git Repository 
-Author - tanushree
+This is my first Git Repository.
+<br>
+Author-tanushree
